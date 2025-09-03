@@ -1,0 +1,3 @@
+[submodule "classification-task"]
+	path = classification-task
+	url = git@github.com:elyte5star/classification-task.git
